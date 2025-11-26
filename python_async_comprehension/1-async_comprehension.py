@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """
-Async comprehensions
+Async comprehensions that collect 10 random numbers using an async comprehension
+over async_generator, then return the 10 random numbers
+Returns a list of 10 random numbers
+Returns a list of 10 random numbers
 """
 import asyncio
 from typing import List
