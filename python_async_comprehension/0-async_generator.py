@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """
-Async generator
+Async generator that yields a random number between 0 and 10
+every second for 10 seconds
+Returns a random number between 0 and 10
+every second for 10 seconds
+Returns a random number between 0 and 10
 """
 import asyncio
 import random
